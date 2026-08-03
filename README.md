@@ -24,17 +24,5 @@ Estudante de **Engenharia de Computação** no terceiro semestre, apaixonado por
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
-</p>
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-monteiro-cardoso)
 [![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davicrd25@gmail.com)
