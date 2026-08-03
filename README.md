@@ -1,6 +1,6 @@
 ### Olá, eu sou o Davi Monteiro Cardoso! 👋
 
-Estudante de **Engenharia de Computação (3º semestre)** apaixonado por tecnologia, com forte foco no desenvolvimento backend e em engenharia de software de alta performance. Atualmente, estou expandindo meus conhecimentos no ecossistema Java e Spring Boot, além de explorar tecnologias como Node.js, TypeScript[cite: 1] e integração com Inteligência Artificial[cite: 1].
+Estudante de **Engenharia de Computação (3º semestre)** apaixonado por tecnologia, com forte foco no desenvolvimento backend e em engenharia de software de alta performance. Atualmente, estou expandindo meus conhecimentos no ecossistema Java e Spring Boot, além de explorar tecnologias como JavaScript, TypeScript e React.
 
 ---
 
@@ -21,20 +21,7 @@ Estudante de **Engenharia de Computação (3º semestre)** apaixonado por tecnol
 
   <!-- Ferramentas -->
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.com/gh/devicons/devicon/icons/postman/postman-original.svg">
-</div>
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davi-monteiro-cardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-monteiro-cardoso&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
-</p>
+  </div>
 
 ---
 
