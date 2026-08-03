@@ -28,4 +28,3 @@ Estudante de **Engenharia de Computação (3º semestre)** apaixonado por tecnol
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-monteiro-cardoso-913b8b380/)
-[![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davicrd25@gmail.com)
