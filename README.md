@@ -1,17 +1,19 @@
+### Olá, eu sou o Davi Monteiro Cardoso! 👋
 
-Estudante de **Engenharia de Computação** no terceiro semestre, apaixonado por tecnologia e focado em construir uma base sólida em engenharia de software. Atualmente, estou expandindo meus conhecimentos no ecossistema Java e Spring Boot, desenvolvendo projetos práticos com foco em boas práticas, arquitetura limpa e manipulação de dados.
+Estudante de **Engenharia de Computação (3º semestre)** apaixonado por tecnologia, com forte foco no desenvolvimento backend e em engenharia de software de alta performance. Atualmente, estou expandindo meus conhecimentos no ecossistema Java e Spring Boot, além de explorar tecnologias como Node.js, TypeScript[cite: 1] e integração com Inteligência Artificial[cite: 1].
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas
 
 <div style="display: inline_block">
-  <!-- Linguagens -->
+  <!-- Linguagens & Backend -->
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  
-  <!-- Frameworks e Bibliotecas -->
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
   <!-- Banco de Dados -->
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -24,5 +26,19 @@ Estudante de **Engenharia de Computação** no terceiro semestre, apaixonado por
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-monteiro-cardoso)
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davi-monteiro-cardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-monteiro-cardoso&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-monteiro-cardoso-913b8b380/)
 [![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davicrd25@gmail.com)
