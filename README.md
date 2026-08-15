@@ -1,7 +1,6 @@
 ### Olá, eu sou o Davi Monteiro Cardoso! 👋
 
-Estudante de **Engenharia de Computação (3º semestre)** apaixonado por tecnologia, com forte foco no desenvolvimento backend e em engenharia de software de alta performance. Atualmente, estou expandindo meus conhecimentos no ecossistema Java e Spring Boot, além de explorar tecnologias como Node.js, TypeScript e React.
-
+Estudante de **Engenharia de Computação (3º semestre)** e Engenheiro de Software com 1 ano de experiência prática em Java, com foco na criação de aplicações modernas, seguras e escaláveis. Tenho forte aptidão para projetar APIs robustas, implementar processamento assíncrono e batch, projetar arquiteturas de mensageria, integrar sistemas de autenticação e desenvolver testes automatizados.
 ---
 
 ### 💻 Tecnologias e Ferramentas
