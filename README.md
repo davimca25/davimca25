@@ -1,6 +1,6 @@
 # Davi Monteiro
 
-Estudante de *Engenharia de Computação (3º semestre)* e Engenheiro de Software com 1 ano de experiência prática em Java, com foco na criação de aplicações modernas, seguras e escaláveis. Tenho forte aptidão para projetar APIs robustas, implementar processamento assíncrono e batch, projetar arquiteturas de mensageria, integrar sistemas de autenticação e desenvolver testes automatizados.
+Estudante de *Engenharia de Computação (3º semestre)* e Engenheiro de Software com 1 ano e meio de experiência prática em Java, com foco na criação de aplicações modernas, seguras e escaláveis. Tenho forte aptidão para projetar APIs robustas, implementar processamento assíncrono e batch, projetar arquiteturas de mensageria, integrar sistemas de autenticação e desenvolver testes automatizados.
 
 ### 💻 Tecnologias e Ferramentas
 
