@@ -1,6 +1,20 @@
 # Davi Monteiro
 
-Estudante de *Engenharia de Computação (3º semestre)* e Engenheiro de Software com 1 ano e meio de experiência prática em Java, com foco na criação de aplicações modernas, seguras e escaláveis. Tenho forte aptidão para projetar APIs robustas, implementar processamento assíncrono e batch, projetar arquiteturas de mensageria, integrar sistemas de autenticação e desenvolver testes automatizados.
+Estou no 3º período de Engenharia de Computação e já coloquei uma API para rodar na AWS, construí um e-commerce com 4 microsserviços orientados a eventos e desenvolvi o sistema de rotas de um projeto real com Google Maps. Busco um estágio em back-end, cloud ou DevOps.
+
+O que já construí:
+
+Catalog Manager: e-commerce com 4 microsserviços (Auth, Order, Batch e Stock), cada um com seu próprio banco. Os serviços conversam de forma assíncrona via RabbitMQ, usando o padrão Saga por coreografia para manter a consistência dos pedidos sem acoplamento. Processamento em lote com Spring Batch (MongoDB como staging, PostgreSQL como destino), autenticação stateless com JWT, infraestrutura inteira subindo com um comando no Docker Compose e pipeline de CI por serviço no GitHub Actions, com testes em JUnit e Mockito.
+
+Tec Events: API de eventos hospedada em AWS EC2, com upload de imagens para o Amazon S3 via AWS SDK v2, credenciais fora do código, banco versionado com Flyway e endpoints com paginação e filtros.
+
+Horizon (projeto de extensão): desenvolvi em Java/Spring Boot o sistema de cálculo de rotas integrado às APIs do Google Maps, transformando regras de negócio complexas em dados geoespaciais, e otimizei os fluxos de requisição da API para aguentar mais acessos simultâneos.
+API de autenticação: Spring Security com JWT, controle de acesso por roles (RBAC), Flyway e documentação com Swagger.
+
+Stack: Java 21 · Spring Boot · Spring Security · Spring Batch · RabbitMQ · PostgreSQL · MongoDB · Docker · AWS (EC2, S3) · GitHub Actions · JUnit · Mockito · React · TypeScript · Linux
+
+Aberto a estágio no Rio de Janeiro (presencial ou híbrido) ou remoto.  
+Computer Engineering student building production-style Java systems (microservices, AWS, CI/CD). Open to back-end, cloud and DevOps internships. English (C1)
 
 ### 💻 Tecnologias e Ferramentas
 
